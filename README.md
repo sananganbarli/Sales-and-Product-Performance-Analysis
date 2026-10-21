@@ -1,2 +1,2 @@
 # Sales & Product Performance Analytics Dashboard
-![Dashboard Preview](Screenshot 2026-10-21 161240.png)
+Sales & Product Analytics Dashboard analyzing category revenue, regional sales distribution, and FMCG product performance.
